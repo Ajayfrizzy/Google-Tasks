@@ -36,6 +36,10 @@ a:hover{
     align-items: center;
 }
 
+.repo-link{
+    margin-top: 0.5em;
+}
+
 .right-link{
     display: flex;
     justify-content: space-between;
@@ -49,7 +53,7 @@ a:hover{
     display: flex;
     flex-direction: column;
     align-items: center;
-    /* margin-top: 3em; */
+    margin-top: 2em;
 }
 
 .search-box{
